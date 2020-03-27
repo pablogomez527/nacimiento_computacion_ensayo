@@ -1,0 +1,126 @@
+Del infinito a la computación
+Juan pablo gómez ramírez
+marzo 26 del 2020
+
+1.
+
+Introducción
+
+¿Cómo nació la computación moderna? Para poder responder a esta preguntar nos tenemos que remontar al año 1874 con los postulados del matemático alemán George Cantor los cuales tratan sobre la teoría de conjuntos
+infinitos.
+Años más tarde en la década de los 20s se llevaría a cabo una serie de discusiones que derivarían en la crisis de los fundamentos. Estas discusiones
+tendrían como protagonistas a Kurt Godel, Alan Turing y David Hilbert,
+quienes jugarían un papel muy importante en el nacimiento de la computación, aportando grandes avances a las matemáticas y computación, tales
+como la solución del problema de entsheidung y la máquina de Turing por
+parte de Alan Turing y Kurt Godel con sus teoremas de la incompletitud.
+
+2.
+2.1.
+
+Desarrollo
+Sobre el infinito
+
+Todo comienza con la teoría de conjuntos, la cual fue postulada en el año
+de 1874 por el matemático alemán George Cantor, en la que postulaba que
+hay diferentes clases de infinitos, en los que unos podían ser más grandes
+que otros, tiempo después aparecieron resultados paradójicos a partir de los
+postulados de George Cantor, lo cual daría origen a diferentes paradojas,
+siendo la paradoja planteada por Bertrand Russell la que más repercusión
+tendría y la cual llevaría a discusiones de años entre diferentes bandos, pero
+no fue sino hasta el año 1931, que Kurt godel un joven matemático daría la
+1
+
+estocada final con su teorema de la incompletitud y pondría el punto final a
+estas discusiones.
+
+2.2.
+
+Teorema de la incompletitud
+
+Para hablar del teorema de la incompletitud, debemos empezar con David Hilbert y entender la filosofía matemática de este, la cual consistía en
+que todo problema matemático tiene solución, para probar esto, diseño el
+programa Hilbert, el cual trataba de eliminar cualquier inconsistencia de las
+matemáticas, creando una nueva rama de las matemáticas, la cual se llamaba
+matematemática. Pero todo esto fue refutado por Goldel, con su teorema, el
+cual logro demostrar que en cualquier sistema que contenga aritmética hay
+enunciados verdaderos, que dentro del sistema no se pueden probar ni negar.
+
+2.3.
+
+El problema de entsheidung
+
+Fueron estos teoremas planteados por Kurt Godel los que inspirarían a
+personas como Alan Turing a resolver el problema de Entsheidung el cual
+consistía en que se tenía que comprobar si existe algún algoritmo que decida
+si un problema matemático tiene o no demostración. En la solución de este
+problema participaron 2 matemáticos Alonso Church y Alan Turing, ambos
+lograron demostrar de manera independiente que este problema no tiene
+solución, para esto el matemático Church desarrollo el concepto de algoritmo,
+mediante el cual Turing se basó para desarrollar posteriormente su máquina
+de Turing.
+
+2.4.
+
+Máquina de turing
+
+La máquina de Turing es un concepto, una máquina teórica, la cual puede
+ejecutar cualquier algoritmo con instrucciones precisas y un fin concreto, la
+síntesis de esta consistía en una entrada-lectura, escritura-salida. El funcionamiento de esta consistía en un cabezal que puede leer o escribir sobre una
+cinta infinita, en esta cinta infinita, se almacenaban el algoritmo y en función
+de lo que este cabezal lee, almacena los datos de entrada en la cinta y con
+estos datos decide cual será la próxima decisión a tomar.
+
+2
+
+2.5.
+
+Computación moderna
+
+Gracias a la máquina de Turing se sentarían las bases de la computación
+moderna, pero no fue sino hasta que Jhon Von Neumann con su arquitectura
+de computadores que no conoceríamos a las computadoras como lo que son
+hoy en día. Esta arquitectura consiste en una serie de bloques los cuales son:
+Unidad central de procesamiento (CPU)(Encargada de todas las operaciones de funcionamiento )
+Memoria principal (Es el lugar en el que se guardan los datos y softwares)
+Buses(comunicación entre las diferentes partes)
+Periféricos(teclado, mouse, pantalla)
+
+3.
+
+Conclusión
+
+Por todo esto, se inferiré que el nacimiento de la computación moderna
+se concibe desde la introducción del concepto del infinito y sobre este se
+desarrollan todos los fundamentos de la computación moderna.
+
+4.
+
+Referencias
+
+Referencias
+[1] Du sutoy,M(2 de septiembre de 2018).George cantor el matemático que
+descubrió que hay muchos infinitos y no todos son del mismo tamaño.
+bbc. Recuperado de htpp://www.bbc.com/
+[2] Copeland,B.J(19 de junio de 2019).Alan Turing. Inglaterra Encyclopledia Britannica. Recuperado de http://Britannica.com/
+[3] Mir
+sabate,F(2011).La
+polémica
+intuicionismo-formalismo
+en los años 20.Principio del tercio excluso. Recuperado de
+http://www.filosofia.net/materiales/pdf23/cdm35.pdf
+
+3
+
+[4] Bombai Gordón,F(20 de febrero de 2018).David Hilbert y la defensa del
+rigor matemático .ELPAÍS.Recuperado de http://www.elpais.com/
+[5] Velasco,J,J(12 de mayo de 2015).Jhon Von Neumann, el genio detrás del
+ordenador moderno. Eldiaro.es. Recuperado de http://eldiario.es.com/
+[6] Morales Medina,M,A.(23 de octubre de 2014).Que dice exactamente el primer teorema de incompletitud de Goldel[Mensaje de un
+blog].Recuperado de http://www.Gaussianos.com/
+[7] Peña,R.(6 de septiembre de 2012).¿Computadores de von Neumann,
+o computadores de Turing?.[Mensaje en un blog].Recuperado de
+htpp://www.blogs.elpais.com/
+
+4
+
+
